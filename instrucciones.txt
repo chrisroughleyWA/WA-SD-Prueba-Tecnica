@@ -11,7 +11,7 @@ Con este información podremos ver el comportamiento de los productos de nuestro
 
 Estos datos deben tener ventas para todos los productos del catálogo de productos.
 Estos datos deben cubrir las ventas en todo el país de dos grupos de supermercados.
-Estos datos deben aportar valores de Unidades vendidas a un cierto Precio cada día en cada tienda. 
+Estos datos deben tener ventas diarias por producto.
 
 Tu tarea es:
 1. Recopilar los datos que este cliente nuevo nos ha entregado. 
