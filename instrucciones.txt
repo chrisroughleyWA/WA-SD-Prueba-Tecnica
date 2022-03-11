@@ -15,6 +15,6 @@ Estos datos deben aportar valores de Unidades vendidas a un cierto Precio cada d
 
 Tu tarea es:
 1. Recopilar los datos que este cliente nuevo nos ha entregado. 
-2. Realizar una primera limpieza si hace falta para.  
+2. Realizar una primera limpieza si hace falta.  
 3. Realizar comprobaciones sobre el contenido de los archivos y su integridad entre ellos.
 4. Presentarnos lo que encuentres. Tenemos lo que pedimos? Nos falta algo?
