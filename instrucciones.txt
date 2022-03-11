@@ -9,8 +9,8 @@ Estas esperando un lote de datos que consiste en:
 Basicamente queremos ver qué producto se vendío que en qué día en qué tienda a qué precio y cuantos unidades se vendío. 
 Con este información podremos ver el comportamiento de los productos de nuestro cliente nuevo durante el tiempo.
 
-Estos datos deben cubrir las ventas del portafolio de productos de nuestro cliente, que es un fabricante de productos de cereales, de productos hechos por cereales.
-Estos datos deben cubrir las ventas en todo el país en dos grupos de supermercados.
+Estos datos deben tener ventas para todos los productos del catálogo de productos.
+Estos datos deben cubrir las ventas en todo el país de dos grupos de supermercados.
 Estos datos deben aportar valores de Unidades vendidas a un cierto Precio cada día en cada tienda. 
 
 Tu tarea es:
