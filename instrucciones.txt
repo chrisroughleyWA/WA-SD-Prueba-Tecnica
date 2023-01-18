@@ -23,4 +23,4 @@ Dentro de un notebook de jupyterhub:
 Tips:
 1. Se puede descargar todos los archivos desde aqui, pinchando code y descargar .zip. 
 2. Queremos ver tu estilo de código, cómo piensas y cómo explicas por qué has hecho lo que has hecho.
-3. Si a los datos les falta algo, o algo está mal dentro de los datos, cómo los comunicarías al cliente lo más sencillo posible.
+3. Si a los datos les falta algo, o algo está mal dentro de los datos, cómo los comunicarías al cliente?
