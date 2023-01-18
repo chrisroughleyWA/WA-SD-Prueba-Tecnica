@@ -7,7 +7,7 @@ Estas esperando un lote de datos que consiste en:
 3. Un archivo que registra las ventas entre el proveedor (ejemplo WALMART) al consumidor final (la persona comprando en el supermercado).
 
 Basicamente queremos ver qué producto se vendió que en qué día en qué tienda a qué precio y cuantos unidades se vendieron. 
-Con este información podremos ver el comportamiento de los productos de nuestro cliente nuevo durante el tiempo.
+Con esta información podremos ver el comportamiento de los productos de nuestro cliente nuevo durante el tiempo.
 
 Estos datos deben tener ventas para todos los productos del catálogo de productos.
 Estos datos deben cubrir las ventas en todo el país de dos grupos de supermercados.
